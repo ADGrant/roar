@@ -1,2 +1,2 @@
-let application = Lion()
+let application : Speaker = Lion()
 application.speak("Roar")

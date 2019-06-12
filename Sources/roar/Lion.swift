@@ -1,6 +1,6 @@
 import Foundation
 
-class Lion
+class Lion : Speaker
 {
     let msg = "some text";
 
