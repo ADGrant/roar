@@ -1,3 +1,3 @@
 # roar
 
-A description of this package.
+A package to test Docker & Swift support in CLion.
